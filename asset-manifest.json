@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacttagapp/static/css/main.073c9b0a.css",
+    "main.js": "/reacttagapp/static/js/main.cdab79b6.js",
+    "static/js/787.72f67152.chunk.js": "/reacttagapp/static/js/787.72f67152.chunk.js",
+    "index.html": "/reacttagapp/index.html",
+    "main.073c9b0a.css.map": "/reacttagapp/static/css/main.073c9b0a.css.map",
+    "main.cdab79b6.js.map": "/reacttagapp/static/js/main.cdab79b6.js.map",
+    "787.72f67152.chunk.js.map": "/reacttagapp/static/js/787.72f67152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cdab79b6.js"
+  ]
+}
